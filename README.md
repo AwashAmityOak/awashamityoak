@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is AwashAmityOak.
+My name is Awash Amity Oak.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awashamityoak&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
