@@ -1,11 +1,15 @@
-# Awash Amity Oak
+# 👋 Hi, there!
 
 My name is Awash Amity Oak.
 
-## Status
-![Statistic](https://github-readme-stats.vercel.app/api?username=awashamityoak&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
+## My Github Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awashamityoak&layout=compact&theme=dark)
+<p align="left">
+
+  <img alt="Statistics" width="43%" src="https://github-readme-stats.vercel.app/api/?username=awashamityoak&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="Top Languages" width="54.9%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=awashamityoak&layout=compact&theme=tokyonight" />
+
+</p>
 
 <!--
 **AwashAmityOak/awashamityoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
